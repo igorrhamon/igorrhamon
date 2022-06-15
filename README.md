@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Rhamon</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="center" width="400"  src="https://raw.githubusercontent.com/igorrhamon/igorrhamon/main/img/Wizgrids%20Mithril%20Animation.gif">
+<img align="center" width="300"  src="https://raw.githubusercontent.com/igorrhamon/igorrhamon/main/img/Wizgrids%20Mithril%20Animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorrhamon&label=Profile%20views&color=0e75b6&style=flat" alt="igorrhamon" /> </p>
 
